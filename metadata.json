@@ -1,0 +1,6 @@
+{
+  "name": "Vua Đá Phạt 3D - Free Kick Master",
+  "description": "Game đá phạt hàng rào 3D chân thực với hướng sút, lực sút, độ xoáy vòng cung, hàng rào nhảy cản phá, thủ môn phản xạ nhạy bén, thử thách đa cấp độ, bảng xếp hạng trực tuyến và phần thưởng điểm danh hàng ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
